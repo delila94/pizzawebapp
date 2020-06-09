@@ -11,7 +11,7 @@
 http://mypizzaapplication.herokuapp.com/#/
 
 
-[![Watch the video](https://imgur.com/QXqbiEy)](https://vimeo.com/427473592)
+[![Watch the video](https://i.imgur.com/QXqbiEy.png)](https://vimeo.com/427473592)
 
 ## About Laravel
 
