@@ -3,6 +3,8 @@
 
 http://mypizzaapplication.herokuapp.com/#/
 
+Click on image to see demo:
+
 
 [![Watch the video](https://i.imgur.com/QXqbiEy.png)](https://vimeo.com/427473592)
 
