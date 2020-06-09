@@ -7,6 +7,16 @@ http://mypizzaapplication.herokuapp.com/#/
 [![Watch the video](https://i.imgur.com/QXqbiEy.png)](https://vimeo.com/427473592)
 
 
+This app is giving possibility to:
+• Clients are able to order pizzas from the menu
+• The menu contains different pizzas and salads
+• Processing order/etc. 
+• The pizza order process is covering ordering single or several pizzas with definition of the quantity and calucation of a total price in Euros and US$ also adding delivery costs to the bill.
+• User can register on site and after that login
+• Shopping as registerd user is saving shopping cart 
+• User can shopping as guest
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
