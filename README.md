@@ -11,7 +11,7 @@
 http://mypizzaapplication.herokuapp.com/#/
 
 
-<iframe src="https://player.vimeo.com/video/427473592" width="640" height="365" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/427473592?autoplay=1&loop=1" width="640" height="365" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/427473592">Shopping Cart Laravel React js</a> from <a href="https://vimeo.com/user52367589">Delila Halac</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## About Laravel
